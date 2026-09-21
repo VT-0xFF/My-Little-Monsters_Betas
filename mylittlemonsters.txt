@@ -1,0 +1,1153 @@
+{
+    "RoomId": 3665283272063195240,
+    "Name": "MyLittleMonster",
+    "Description": "This room is a blank canvas. Make it Into whatever you like!",
+    "ImageName": "e5cnoepgz608bo62y1gcekfca.jpg",
+    "WarningMask": 0,
+    "CustomWarning": None,
+    "CreatorAccountId": 3,
+    "State": 0,
+    "Accessibility": 0,
+    "SupportsLevelVoting": False,
+    "IsRRO": False,
+    "SupportsScreens": True,
+    "SupportsWalkVR": True,
+    "SupportsTeleportVR": True,
+    "SupportsVRLow": True,
+    "SupportsQuest2": True,
+    "SupportsMobile": True,
+    "SupportsJuniors": True,
+    "MinLevel": 0,
+    "CreatedAt": "2023-01-25T20:50:38.9209683Z",
+    "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 3,
+        "VisitorCount": 77,
+        "VisitCount": 3779
+    },
+    "RankingContext": None,
+    "IsDorm": False,
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 6,
+    "CloningAllowed": False,
+    "DisableMicAutoMute": False,
+    "DisableRoomComments": False,
+    "EncryptVoiceChat": False,
+    "ToxmodEnabled": False,
+    "LoadScreenLocked": False,
+    "UgcVersion": 1,
+    "PersistenceVersion": 72,
+    "AutoLocalizeRoom": False,
+    "LocalizationContext": {
+        "TargetLocale": None,
+        "Scope": None,
+        "LocalizedFields": [
+            "Description",
+            "CustomWarning"
+        ]
+    },
+    "IsDeveloperOwned": True,
+    "RankedEntityId": "3665283272063195240",
+    "DataBlob": "0d91frs32ptgqa1lsd9l5p7av.meta",
+    "DataBlobHash": "OwWcjrw5V+TjVs3FI2D0cqd8wUbpuF+FCb/XQpoSxBI=",
+    "SubRooms": [
+        {
+            "SubRoomId": 9129811986119433406,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "BuildReview_0906",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 102965,
+                "SubRoomId": 9129811986119433406,
+                "UnityAssetId": "afcd041f-7395-4492-ad23-814bfcc24bc3",
+                "UnityAsset": "ep899s9ndgyejvx17097oyrfx.assetbundle",
+                "UnityAssetHash": "1fcM595+Xd7n55ZNmJKYrCRJDcATgYni6x4WsQMOmuc=",
+                "DataBlob": "92qxa5wcmhy5m4zxk9gsjzp1j.room",
+                "DataBlobHash": "zFh+V7x6//9PB5l9Kw9t4ENJYoxvjGma44GOb+jQQEE=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Tuned candy prices",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-06T19:19:23.7534576Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 5509661505385388200,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "BuildReview_0915",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 104298,
+                "SubRoomId": 5509661505385388200,
+                "UnityAssetId": "1ea237fd-5765-4e2e-868e-7a29069b868d",
+                "UnityAsset": "ctji9wc4mqexzmypvjci34yhw.assetbundle",
+                "UnityAssetHash": "kTEly44Nw2Vqc9x/YEeMk9FXNb+RARCa6bdinNHHXio=",
+                "DataBlob": "enc4pjdcf8ubehc80nd01ihgb.room",
+                "DataBlobHash": "/hfd7+0bpbx/0vnGsmVv3kdCZuR2/H7dAKynFsvcqAw=",
+                "PersistenceVersion": 70,
+                "OMVersion": 0,
+                "SavedByAccountId": 12077,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-15T20:15:21.4035851Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 7984820385184479054,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "BuildReview_1006",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 108099,
+                "SubRoomId": 7984820385184479054,
+                "UnityAssetId": "65357695-6bf8-4394-b5f4-1d067794b8d8",
+                "UnityAsset": "9z10671pnley5j4d88lnqamih.assetbundle",
+                "UnityAssetHash": "lXknYWOlcAJX8N7g0kIhwjqWAAnFr85hBw0AHwg+sDw=",
+                "DataBlob": "c0gp2iwp7907h1a091pxun90w.room",
+                "DataBlobHash": "O+HYVt6ywGZM1aFI8W1nC0xVEv/i2zNJHKPB/vahE18=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Fixed notebook bugs",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-06T17:27:37.9899614Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 149223476171830752,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "BuildReview_818",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 99869,
+                "SubRoomId": 149223476171830752,
+                "UnityAssetId": "bb984288-1387-4170-af61-e8ad39812fa7",
+                "UnityAsset": "1gxbr53yzrdb888myx10mjunt.assetbundle",
+                "UnityAssetHash": "fvUZsfDFMkFESntF0eeLcl87tvABycDSkRcXTTkpahA=",
+                "DataBlob": "1sddjnmg505e2833cm86i945o.room",
+                "DataBlobHash": "dusie3305O0w+j/hdHUr1ITPzhEQi5z/ypEBOK8U4HY=",
+                "PersistenceVersion": 61,
+                "OMVersion": 0,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Fixed eating animation bug",
+                "ModerationState": 0,
+                "CreatedAt": "2023-08-18T19:52:07.5136106Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 2237950927592375394,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "ChipAudit",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 106941,
+                "SubRoomId": 2237950927592375394,
+                "UnityAssetId": "08049362-2e1c-424f-a431-c5a13030d0e3",
+                "UnityAsset": "0evkapevrecyuztkv5ff05j5p.assetbundle",
+                "UnityAssetHash": "IQ+6fh0ntLeWbum8pUvb8t2VrqiNCGoSJ6IMDmV0ozs=",
+                "DataBlob": "0d78ltrgl8lq1ijzjv3n7klru.room",
+                "DataBlobHash": "+AJG0vgF5W9rguMPXK2VKUr+LsVVwkauYU+zWjXVdVk=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Deleted almost everything",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-03T00:49:54.6362327Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 8481796028599381641,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "CorruptionTesting",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107449,
+                "SubRoomId": 8481796028599381641,
+                "UnityAssetId": "3e0d23a5-b6e4-47e8-873c-3a108052b73b",
+                "UnityAsset": "cbgym9e18wqtja4nbehkagqj5.assetbundle",
+                "UnityAssetHash": "08dKtLHnRalwzjtdIkQ6ghSmOwy/E6SbUS5SabILAhs=",
+                "DataBlob": "cuosectlvxg8vkgur7ksdvg1f.room",
+                "DataBlobHash": "Xh/PDQyhaXCPrsdt8MeBMlRsa83wZzEs0AC2cXfmWtQ=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Attempted execution spam",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-04T23:25:53.0586507Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 1335684467257339975,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Demo_Night_100623",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 108110,
+                "SubRoomId": 1335684467257339975,
+                "UnityAssetId": "f41c6299-6f9f-44be-8480-02b902d7b0c1",
+                "UnityAsset": "bf6zwveuhdgang4ipwazl0ewu.assetbundle",
+                "UnityAssetHash": "CIUsw0B9u84w4hxxhb5qnUGasSSGWMWwn8E32onZPNw=",
+                "DataBlob": "2s40lx0k59tlkleleziv7ah3p.room",
+                "DataBlobHash": "g1pD6wP26zilUzsikyooNJAAN26EOcaolXXTzPYZv/Q=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "fixing bug",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-06T17:56:47.7454483Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 4281581907022942252,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 83945,
+                "SubRoomId": 4281581907022942252,
+                "UnityAssetId": "1ea237fd-5765-4e2e-868e-7a29069b868d",
+                "DataBlob": "2bsz2rg9jsji1nzyh7tsarjau.room",
+                "DataBlobHash": "9p9snETJ18hSzuPjEQjxUXniRDTsX4YmhjKd7WygW28=",
+                "PersistenceVersion": 52,
+                "OMVersion": 0,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "",
+                "ModerationState": 0,
+                "CreatedAt": "2023-05-09T18:12:01.0473095Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 4542829877868136124,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_106361",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 83945,
+                "SubRoomId": 4281581907022942252,
+                "UnityAssetId": "7a20e123-5098-40a4-a6ef-5d28df5ccf07",
+                "DataBlob": "2bsz2rg9jsji1nzyh7tsarjau.room",
+                "DataBlobHash": "9p9snETJ18hSzuPjEQjxUXniRDTsX4YmhjKd7WygW28=",
+                "PersistenceVersion": 52,
+                "OMVersion": 0,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "",
+                "ModerationState": 0,
+                "CreatedAt": "2023-05-09T18:12:01.0473095Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 7802058307674588075,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_471180",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107542,
+                "SubRoomId": 7802058307674588075,
+                "UnityAssetId": "d750b139-4228-49cc-b10a-6967ef17c6a1",
+                "UnityAsset": "ep8xij7zesbf6qxqvhm7fk6wr.assetbundle",
+                "UnityAssetHash": "2ZkZiOjpury89EBum6w8PZEGdd5XFhcE/eiGdgAQ+vo=",
+                "DataBlob": "71pglfl9jmh7b2403llqgslq9.room",
+                "DataBlobHash": "5f3+qsmEjKHWeH61RvkPEWdyYgJXj9Ae79f6uJFFuhQ=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 10644,
+                "SavedOnPlatform": 7,
+                "SavedOnDeviceClass": 2,
+                "Description": "Started wiring title selection.",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-03T22:00:25.8400689Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 2018301508255043214,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_Backup_091223",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 103648,
+                "SubRoomId": 2018301508255043214,
+                "UnityAssetId": "afcd041f-7395-4492-ad23-814bfcc24bc3",
+                "UnityAsset": "ep899s9ndgyejvx17097oyrfx.assetbundle",
+                "UnityAssetHash": "1fcM595+Xd7n55ZNmJKYrCRJDcATgYni6x4WsQMOmuc=",
+                "DataBlob": "7crxc1r9asu4v441fnkt650kc.room",
+                "DataBlobHash": "StKfTecU/Gru0f5Rg2htd7GMUBMrkzrKn/fcvAZf0Lc=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Marie dialogue works",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-07T20:02:06.1530292Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 5312800380133734632,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_IcecreamTemp",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 99839,
+                "SubRoomId": 5312800380133734632,
+                "UnityAssetId": "bb984288-1387-4170-af61-e8ad39812fa7",
+                "UnityAsset": "1gxbr53yzrdb888myx10mjunt.assetbundle",
+                "UnityAssetHash": "fvUZsfDFMkFESntF0eeLcl87tvABycDSkRcXTTkpahA=",
+                "DataBlob": "3lu8p9omuawfvb5u153ir58i8.room",
+                "DataBlobHash": "9OeiAX8xG+UUnVTOOFChRwdQE2DtVJ52OWtMr+cn17A=",
+                "PersistenceVersion": 61,
+                "OMVersion": 0,
+                "SavedByAccountId": 12077,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "",
+                "ModerationState": 0,
+                "CreatedAt": "2023-08-18T19:59:04.0376907Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 3601972760860687922,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_Monster_Level",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 104566,
+                "SubRoomId": 3601972760860687922,
+                "UnityAssetId": "1ea237fd-5765-4e2e-868e-7a29069b868d",
+                "UnityAsset": "ctji9wc4mqexzmypvjci34yhw.assetbundle",
+                "UnityAssetHash": "kTEly44Nw2Vqc9x/YEeMk9FXNb+RARCa6bdinNHHXio=",
+                "DataBlob": "c2ea8cufkitt2845oqkxpbotn.room",
+                "DataBlobHash": "lPZCNshewsTcsGVJQ0TWR4wXbxYissTd2FTDSKpMnqo=",
+                "PersistenceVersion": 70,
+                "OMVersion": 0,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Preparing for future iteration",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-19T00:55:38.2054643Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 3194600221149957381,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_Night_Experiment",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 105897,
+                "SubRoomId": 3194600221149957381,
+                "UnityAssetId": "9bb6e2f9-d05d-4d31-a182-3c4a56e24c35",
+                "UnityAsset": "7ube0e9yayalqxempztfz0p8o.assetbundle",
+                "UnityAssetHash": "IQk7+jv0rwneuiKoEQzDOVMon3em9U+jUzSzHXnyIuc=",
+                "DataBlob": "9komjwtp9hd89hxzdu1xhwvw3.room",
+                "DataBlobHash": "Gyfq79Iegxofy0DuFKQ3/KN4nOTXjx4VOvhhIQqKKmk=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "dumb emitters being dumb",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-26T14:19:23.0011294Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 3870798921886751334,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_OM",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 103406,
+                "SubRoomId": 3870798921886751334,
+                "UnityAssetId": "afcd041f-7395-4492-ad23-814bfcc24bc3",
+                "UnityAsset": "ep899s9ndgyejvx17097oyrfx.assetbundle",
+                "UnityAssetHash": "1fcM595+Xd7n55ZNmJKYrCRJDcATgYni6x4WsQMOmuc=",
+                "DataBlob": "7crxc1r9asu4v441fnkt650kc.room",
+                "DataBlobHash": "StKfTecU/Gru0f5Rg2htd7GMUBMrkzrKn/fcvAZf0Lc=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Marie dialogue works",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-07T20:02:06.1530292Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 5834417626134587622,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_TestCopyLightingData",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 102379,
+                "SubRoomId": 5834417626134587622,
+                "UnityAssetId": "0d31ffec-bbe3-4380-8d00-ec8557bfd065",
+                "UnityAsset": "e4owo8ho0fpmqgv6wx5jft6w1.assetbundle",
+                "UnityAssetHash": "VAHh8vWrGxqOCYnBSwtnn1DWNio5J/JvCYkCVUe1GEE=",
+                "DataBlob": "cztauqn1ob6qt6utodvo6c0ow.room",
+                "DataBlobHash": "8m19qEw8x4DSqupYPabX80Ixj+QWhYLvpKCtcYgFP+Y=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Updated notebooks",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-01T02:41:59.0255516Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 5272426462822466020,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_UnityUpgrade",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 108146,
+                "SubRoomId": 5272426462822466020,
+                "UnityAssetId": "2d8676b9-d43b-44fd-8f7c-c2fac975c1d3",
+                "UnityAsset": "a4az61tgdt1ixv7x7bc47gqz2.assetbundle",
+                "UnityAssetHash": "yRaP+V9Ky92PJ6+hATS8gd45rLdseZpVcE766PTq9DA=",
+                "DataBlob": "4w3bblny2kwipvzg74e3fi4vp.room",
+                "DataBlobHash": "Evfl6kJrvB9Xk/jAWKN23tJSIBYYTmTivKjlcSU/Vlw=",
+                "PersistenceVersion": 72,
+                "OMVersion": 4,
+                "SavedByAccountId": 8287,
+                "SavedOnPlatform": None,
+                "SavedOnDeviceClass": None,
+                "Description": "Test RRS publish",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-06T22:52:06.7391641Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 6728947824939731448,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Downtown_Wisp_Temp",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 102181,
+                "SubRoomId": 6728947824939731448,
+                "UnityAssetId": "a8667306-09df-4975-b7fd-73b9f49c3584",
+                "UnityAsset": "492gemienonfe20dr79et5pkp.assetbundle",
+                "UnityAssetHash": "+mKutOTeNLytE00jXfdfch2cNrB95KKSNSi5yw2uY74=",
+                "DataBlob": "d0nk72u31w36p2ny09rqsok98.room",
+                "DataBlobHash": "7jwxkwmO/xHcGYZd8o7LFcwQTUEGmgvymuX8JEGAfG0=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 12077,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "sanity save just in case",
+                "ModerationState": 0,
+                "CreatedAt": "2023-08-31T17:29:35.946511Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 4405808154465095338,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "ExplorationIteration",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 108001,
+                "SubRoomId": 4405808154465095338,
+                "UnityAssetId": "e0477ecc-da1c-4e4a-a4af-e3282383aaf0",
+                "UnityAsset": "5pgn9oukqqz1ece37dsh6mncj.assetbundle",
+                "UnityAssetHash": "YlzshGBIdxUTeukWUEJ070qrg/gzsYAkSbomZiR/voc=",
+                "DataBlob": "dl5z2lz2jjc1amttwwyog3myz.room",
+                "DataBlobHash": "/7GC4g8zzhspdmIIcD4MiLNhltPFmS8t/NEfrqTwUUI=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": None,
+                "SavedOnDeviceClass": None,
+                "Description": "Testing cloning objects without boards",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-06T04:12:31.5231389Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 6886090015790235991,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Garett_Downtown_2023_08_28_A",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 101429,
+                "SubRoomId": 6886090015790235991,
+                "UnityAssetId": "8a4a077a-74c0-41b3-9d80-8f211cf03028",
+                "UnityAsset": "dsl09z5bjdpf7hrgp9ewykr5c.assetbundle",
+                "UnityAssetHash": "SRpX6e5jeB3HDNvsChm5MtBpS7Fi8BR5VHfBmEVQly4=",
+                "DataBlob": "5zqiej5idhtuae14hqelp678y.room",
+                "DataBlobHash": "tlpMktummvkeBSb1Htb8pPuV0UwFpsRP9nzAaZM1sUw=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 4474,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "wired Set Appearance to Monsters 0 ",
+                "ModerationState": 0,
+                "CreatedAt": "2023-08-28T23:28:19.8683902Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 4960923582257088151,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "Garett_FunctionTest",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 101331,
+                "SubRoomId": 4960923582257088151,
+                "UnityAssetId": "18bb958b-94e1-4512-9a97-bb547a3e9f54",
+                "UnityAsset": "cn41352ccl0d1kz3ogso1u19x.assetbundle",
+                "UnityAssetHash": "ZZL5XxbRl/yJuUKH8vMjuavQV2/QA1AKy1m635URD1o=",
+                "DataBlob": "4s2qws6l0e90sjuzjvqk07ja8.room",
+                "DataBlobHash": "Y6cO1nNHlqDEQ0YB+5Qsr93vwqgrMTaszhvaVAeSsWU=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Wired up size and weight stats",
+                "ModerationState": 0,
+                "CreatedAt": "2023-08-28T15:41:27.4517207Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 2523449706290595420,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "LastKnownGood",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107568,
+                "SubRoomId": 2523449706290595420,
+                "UnityAssetId": "d750b139-4228-49cc-b10a-6967ef17c6a1",
+                "UnityAsset": "ep8xij7zesbf6qxqvhm7fk6wr.assetbundle",
+                "UnityAssetHash": "2ZkZiOjpury89EBum6w8PZEGdd5XFhcE/eiGdgAQ+vo=",
+                "DataBlob": "92y0ecl119cfyqmr4yy2h5s26.room",
+                "DataBlobHash": "CdMu3NBSzXCOnCEwE3sAezWGueUoJ/2RB9g0uUtzKgg=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-05T00:20:36.7150509Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 8399431980490108329,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "LastKnownGood_EthanSaveTest",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107571,
+                "SubRoomId": 8399431980490108329,
+                "UnityAssetId": "d750b139-4228-49cc-b10a-6967ef17c6a1",
+                "UnityAsset": "ep8xij7zesbf6qxqvhm7fk6wr.assetbundle",
+                "UnityAssetHash": "2ZkZiOjpury89EBum6w8PZEGdd5XFhcE/eiGdgAQ+vo=",
+                "DataBlob": "5wzvg7i33kwc630eukrbb0d19.room",
+                "DataBlobHash": "LM2cdmd16K8qk4eY9g2PVgQw+uMKZdDIAHVkCLZEZyo=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Saving after joining when Ethan was here and we are unable to clone",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-05T00:25:41.9736802Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 5391471049229197453,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "LKG_BeforeCorruption",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107592,
+                "SubRoomId": 5391471049229197453,
+                "UnityAssetId": "d750b139-4228-49cc-b10a-6967ef17c6a1",
+                "UnityAsset": "ep8xij7zesbf6qxqvhm7fk6wr.assetbundle",
+                "UnityAssetHash": "2ZkZiOjpury89EBum6w8PZEGdd5XFhcE/eiGdgAQ+vo=",
+                "DataBlob": "edc6k9wvd7xr1l6vz524638rh.room",
+                "DataBlobHash": "BMP1xlMSl7n1JoMha/WyAZa/6QSNInnBgrhCTqDK08Q=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Saving after editing into a CO, adding and scaling a trigger volume, adding chips",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-05T00:59:05.9264878Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 4405700805783378690,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "LKG_Posterity",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107615,
+                "SubRoomId": 4405700805783378690,
+                "UnityAssetId": "d750b139-4228-49cc-b10a-6967ef17c6a1",
+                "UnityAsset": "ep8xij7zesbf6qxqvhm7fk6wr.assetbundle",
+                "UnityAssetHash": "2ZkZiOjpury89EBum6w8PZEGdd5XFhcE/eiGdgAQ+vo=",
+                "DataBlob": "beteua8344rnzww55ayqshx5s.room",
+                "DataBlobHash": "HhzzJdfrS8U/poPnxnb9iQwCJj4aXZRh6OlP3JHyuOo=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 10644,
+                "SavedOnPlatform": None,
+                "SavedOnDeviceClass": None,
+                "Description": "Added title selector to Journal.",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-03T21:16:46.4164462Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 7348505107978768505,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "LKG_Repro_Attempt_2",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107611,
+                "SubRoomId": 7348505107978768505,
+                "UnityAssetId": "d750b139-4228-49cc-b10a-6967ef17c6a1",
+                "UnityAsset": "ep8xij7zesbf6qxqvhm7fk6wr.assetbundle",
+                "UnityAssetHash": "2ZkZiOjpury89EBum6w8PZEGdd5XFhcE/eiGdgAQ+vo=",
+                "DataBlob": "2l4pboxsgl5lz8w1edud7pwov.room",
+                "DataBlobHash": "pQlz6mRI3IOrKHADRN8N3Cefi9I/9gQvZ0IOXPKO3c4=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Test save",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-05T01:22:44.0759811Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 7104064948446273303,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "mlevelcopytest",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 104095,
+                "SubRoomId": 7104064948446273303,
+                "UnityAssetId": "8f942390-ed1d-442a-94c6-becbc40db88a",
+                "UnityAsset": "cvbs3gbr3lg1vsrnfqmfl3v2d.assetbundle",
+                "UnityAssetHash": "UumjnCLUuFhmySY5ohV4MVxA580wd91iETrhF+Ibxh4=",
+                "DataBlob": "4vde56vw22ttylpeqx988r08h.room",
+                "DataBlobHash": "3a32mPVs/mXbVZYE5Y7P1B7rU2MKvrNPgrpAV20AYEI=",
+                "PersistenceVersion": 69,
+                "OMVersion": 0,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "Started a pass on vehicles",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-14T19:47:29.3168756Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 1447830010983806363,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "NoChips",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 107894,
+                "SubRoomId": 1447830010983806363,
+                "UnityAssetId": "63965944-8e05-4f8c-b6da-07c07573c361",
+                "UnityAsset": "1h6dd9c4nsrfv2td105lu2h5n.assetbundle",
+                "UnityAssetHash": "IHjqjSD34iSzFJ4mLukb7k+Z+0N+kVsBhwMr+BwXtsI=",
+                "DataBlob": "21h8cd2xcm0tb2yqqbf4n7bdc.room",
+                "DataBlobHash": "uU7vBVjunVFi6h9NZyHgjyJt0HIge41QbqREZ9OM7ac=",
+                "PersistenceVersion": 70,
+                "OMVersion": 4,
+                "SavedByAccountId": 13418,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "",
+                "ModerationState": 0,
+                "CreatedAt": "2023-10-05T21:57:51.0522325Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 1279963560589373527,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "NPCPathingBackUp",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 101264,
+                "SubRoomId": 1279963560589373527,
+                "UnityAssetId": "bb984288-1387-4170-af61-e8ad39812fa7",
+                "UnityAsset": "1gxbr53yzrdb888myx10mjunt.assetbundle",
+                "UnityAssetHash": "fvUZsfDFMkFESntF0eeLcl87tvABycDSkRcXTTkpahA=",
+                "DataBlob": "d4arrcijtvlgfpk19degcjko5.room",
+                "DataBlobHash": "UVjIVy9mThsvhG9/+HI5GuWZBTSGWMgKQCEVv8cp338=",
+                "PersistenceVersion": 64,
+                "OMVersion": 0,
+                "SavedByAccountId": 7901,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "added logging to the new Go To chips",
+                "ModerationState": 0,
+                "CreatedAt": "2023-08-27T01:03:18.578712Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 4741081623307757578,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "UpgradeTest_0919",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 104790,
+                "SubRoomId": 4741081623307757578,
+                "UnityAssetId": "8ebe6cac-9cbd-47b4-a417-69a39115b53c",
+                "UnityAsset": "c8kd2ojon24l7k5r1q916aqox.assetbundle",
+                "UnityAssetHash": "hH5lE93UQs1a3Kh7sdDCZq7BiDBau2y5SgaI87ptn4Y=",
+                "DataBlob": "doibva8ck7pu57rcmp9dzwaah.room",
+                "DataBlobHash": "MsHpWo6fAg43iFst4Oz9VtvybJunV1miYxtj3QVrDKA=",
+                "PersistenceVersion": 70,
+                "OMVersion": 1,
+                "SavedByAccountId": 3,
+                "SavedOnPlatform": None,
+                "SavedOnDeviceClass": None,
+                "Description": "Attempting upload again",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-20T14:36:43.999809Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        },
+        {
+            "SubRoomId": 8595180611849402289,
+            "RoomId": 3665283272063195240,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name": "WalkthruForDavidEricDowntownMonsterLevel",
+            "CurrentSave": {
+                "SubRoomDataSaveId": 104662,
+                "SubRoomId": 8595180611849402289,
+                "UnityAssetId": "1ea237fd-5765-4e2e-868e-7a29069b868d",
+                "UnityAsset": "ctji9wc4mqexzmypvjci34yhw.assetbundle",
+                "UnityAssetHash": "kTEly44Nw2Vqc9x/YEeMk9FXNb+RARCa6bdinNHHXio=",
+                "DataBlob": "0mmfiyf34i4pwv0u08b8nc33r.room",
+                "DataBlobHash": "xBs69b1RGC5MdSB/kRpcJ8wbtnkcYpEM4PqlyVI7AkQ=",
+                "PersistenceVersion": 70,
+                "OMVersion": 0,
+                "SavedByAccountId": 12077,
+                "SavedOnPlatform": 0,
+                "SavedOnDeviceClass": 2,
+                "Description": "tutorial stuff",
+                "ModerationState": 0,
+                "CreatedAt": "2023-09-19T20:01:34.0527936Z"
+            },
+            "LastModeratedSaveModerationState": 0,
+            "IsSandbox": True,
+            "MaxPlayers": 6,
+            "Accessibility": 1
+        }
+    ],
+    "Roles": [
+        {
+            "AccountId": 628,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 2728,
+            "Role": 30,
+            "LastChangedByAccountId": 2728,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 4474,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1335259526,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 7901,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 8479,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 12652,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 12077,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1162,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 10755,
+            "Role": 30,
+            "LastChangedByAccountId": 10755,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 27,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 26,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1209,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 209983779,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1466,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1131332740,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1672654040,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 11256,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1321234882,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 10644,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 13418,
+            "Role": 30,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 8720,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 7222,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 7494,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 6669,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 13921,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 10998,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 5042,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 171270274,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 232259075,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1150547003,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 5150,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 3385,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1815606499,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 1639951542,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 9326,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 527776364,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 12120,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 8287,
+            "Role": 31,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        },
+        {
+            "AccountId": 3,
+            "Role": 255,
+            "LastChangedByAccountId": None,
+            "InvitedRole": 0
+        }
+    ],
+    "Tags": [
+        {
+            "Tag": "beta",
+            "Type": 1
+        },
+        {
+            "Tag": "rrstudio",
+            "Type": 2
+        },
+        {
+            "Tag": "limitsv2",
+            "Type": 1
+        }
+    ],
+    "PromoImages": [],
+    "PromoExternalContent": [],
+    "LoadScreens": [
+        {
+            "ImageName": "9jsqz589zefe514q62skicx7p.jpg",
+            "Title": "Welcome to Cryptid Creek",
+            "Subtitle": None
+        }
+    ]
+}
